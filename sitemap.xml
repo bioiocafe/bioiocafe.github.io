@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://bioiocafe.github.io/bioioblog/</loc>
+    <lastmod>2020-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bioiocafe.github.io/bioioblog/tags/css/</loc>
+    <lastmod>2020-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bioiocafe.github.io/bioioblog/tags/html/</loc>
+    <lastmod>2020-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bioiocafe.github.io/bioioblog/tags/markdown/</loc>
+    <lastmod>2020-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bioiocafe.github.io/bioioblog/post/markdown-syntax-guide/</loc>
+    <lastmod>2020-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bioiocafe.github.io/bioioblog/post/</loc>
+    <lastmod>2020-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bioiocafe.github.io/bioioblog/tags/</loc>
+    <lastmod>2020-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bioiocafe.github.io/bioioblog/tags/themes/</loc>
+    <lastmod>2020-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bioiocafe.github.io/bioioblog/categories/</loc>
+  </url>
+  
+</urlset>

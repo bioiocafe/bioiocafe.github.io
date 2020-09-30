@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Bioio</title>
-    <link>http://bioiocafe.github.io/bioioblog/tags/</link>
+    <link>http://bioiocafe.github.io/tags/</link>
     <description>Recent content in Tags on Bioio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© {year}</copyright>
     <lastBuildDate>Fri, 05 Jun 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://bioiocafe.github.io/bioioblog/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://bioiocafe.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>css</title>
-      <link>http://bioiocafe.github.io/bioioblog/tags/css/</link>
+      <link>http://bioiocafe.github.io/tags/css/</link>
       <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://bioiocafe.github.io/bioioblog/tags/css/</guid>
+      <guid>http://bioiocafe.github.io/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>html</title>
-      <link>http://bioiocafe.github.io/bioioblog/tags/html/</link>
+      <link>http://bioiocafe.github.io/tags/html/</link>
       <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://bioiocafe.github.io/bioioblog/tags/html/</guid>
+      <guid>http://bioiocafe.github.io/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
       <title>markdown</title>
-      <link>http://bioiocafe.github.io/bioioblog/tags/markdown/</link>
+      <link>http://bioiocafe.github.io/tags/markdown/</link>
       <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://bioiocafe.github.io/bioioblog/tags/markdown/</guid>
+      <guid>http://bioiocafe.github.io/tags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>http://bioiocafe.github.io/bioioblog/tags/themes/</link>
+      <link>http://bioiocafe.github.io/tags/themes/</link>
       <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://bioiocafe.github.io/bioioblog/tags/themes/</guid>
+      <guid>http://bioiocafe.github.io/tags/themes/</guid>
       <description></description>
     </item>
     
